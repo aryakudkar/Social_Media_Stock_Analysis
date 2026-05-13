@@ -17,7 +17,7 @@ An interactive Tableau dashboard analyzing 5 years of stock  market performance 
 * Year and date range filters applied across all charts
 * 6 slide Tableau Story for guided presentation
 
-#Key Metrics
+# Key Metrics
 * Open Price - Stock price at market open
 * Close Price - Stock price at market close
 * High Price - Highest price of the trading day
@@ -30,7 +30,7 @@ An interactive Tableau dashboard analyzing 5 years of stock  market performance 
 * Risk (Std Dev) - Price standard deviation as risk measure
 * Volatility - Yearly price standard deviation by stock
 
-#Key Insights
+# Key Insights
 * Meta and Spotify delivered the strongest 5 year growth
 * Strong bull run observed from 2023 to 2024 followed by sharp market decline in 2026
 * Snap recorded the highest trading volume spike in 2026
@@ -39,7 +39,7 @@ An interactive Tableau dashboard analyzing 5 years of stock  market performance 
 * Positive and negative return days almost equal at 50.11% vs 49.24% showing high market uncertainty
 * Overall market volatility increased significantly after 2024 across all stocks
 
-#Technical Aspects
+# Technical Aspects
 * Data Collection: Raw stock data collected from Yahoo Finance / Investing.com for Meta, Pinterest, Snap and Spotify.
 * Data Cleaning & Preprocessing: Performed in Microsoft Excel by handling missing values.
 * Data Integration: All 4 company stock sheets unioned together in Tableau as a single data source.
